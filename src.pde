@@ -17,7 +17,7 @@ size(1500,1500);
    textSize( 30 );
    fill(0);
 text("Pytagoras læresætning bruger man til at regne hypotenusen ud på en retvinklet trekant. Hypotenusen er den side af trekanten som står overfor den rette vinkel. Men man kan også regne de to kateter (det er de andre to sider af trekanten) ud på samme måde. Det gøres på denne måde: sqrt(a^2+b^2=c^2). ",1000, 10,350,500);
-text("Dette program kan bruges ved at vælge de to felter du kender og indskrive værdien i tal. Du kan skrive i feltene når deres firkant er markeret. Når de rigtige værdier er indskrevet kan man klikke på den værdi man gerne ville have værktøjet til at udregne.",1000,10,350,1450);
+text("Dette program kan bruges ved at vælge de to felter du kender og indskrive værdien i tal. Du kan skrive i feltene når deres firkant er markeret. Når de rigtige værdier er indskrevet kan du klikke på den værdi man gerne ville have værktøjet til at udregne.",1000,10,350,1450);
 
 }
 
